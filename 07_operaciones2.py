@@ -1,3 +1,5 @@
+#Esto es un nuevo comentario.
+#Ya termine jefe...
 #OPERACIONES RELACIONALES O DE COMPARACIÓN
 number = int(input('Digite un número: '))
 print(number > 3)  #Pregunta si number es mayor que 3
